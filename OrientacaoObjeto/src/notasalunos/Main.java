@@ -14,7 +14,7 @@ public class Main {
             aluno.notas[0] = leitor.lerDecimal("Digite a nota 1 do aluno: ");
             aluno.notas[1] = leitor.lerDecimal("Digite a nota 2 do aluno: ");
             aluno.notas[2] = leitor.lerDecimal("Digite a nota 3 do aluno: ");
-            alunos[i] = aluno;
+            alunos[i] = aluno; //Quando o laço rodar, o que está no laço será preenchido aqui
         }
 
         for(Aluno aluno : alunos){
