@@ -1,3 +1,5 @@
+package grupoalunos;
+
 import java.util.Scanner;
 
 public class Main {
