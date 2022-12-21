@@ -16,6 +16,10 @@ public class Piscina {
         //O this signifca que a largura é do objeto
     }
 
+    public Piscina() {
+
+    }
+
     double calcularVolume(){
         return largura * comprimento * profundidade;
     }
