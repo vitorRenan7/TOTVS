@@ -1,0 +1,32 @@
+Anotações: 
+
+GET / SET: 
+get usamos o get para obter informações;
+set usamos o set para definir valores;
+
+CONSTRUTOR: 
+
+construtor sempre tem o nome da classe
+diagrama de classes
+
+ENCAPSULAMENTO:
+
+O que é:
+encapsulamento esconde complexidade para resumir o que a classe faz e não como ela faz
+
+
+PRIVATE:
+
+private são propriedades que só a classe pode acesar
+
+STRING FORMAT:
+
+string format
+
+Pesquisar: 
+
+abstract
+throw
+exception
+
+polimorfismo

@@ -1,5 +1,0 @@
-abstract
-throw
-exception
-
-polimorfismo
