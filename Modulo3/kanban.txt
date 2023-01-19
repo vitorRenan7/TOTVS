@@ -1,0 +1,50 @@
+kanban
+
+https://www.youtube.com/watch?v=v77XaUslOQ0    (video)
+
+
+o que é: metodo para melhorar os serviços a serem entregues;
+
+o metedo é baseado em cartões;
+
+de que forma fazemos s
+
+
+FLUXO PUXADO:
+
+sistema do cartão;
+
+
+VAlores:
+
+Transparencia;
+equilibrio;
+colaboração;
+fluxo
+liderança
+compreensão
+acordo;
+respeito;
+
+
+Principios fundamentais:
+
+gestão da mudança;
+Entrega de serviço;
+
+
+CFD - Fluxo de trabalho do time
+UPSTREAM - um quadro com ideias que não necessariamente vai pro kanban;
+                                     
+
+
+
+metricas, usada para saber se como o time está, se está melhorando, etc.
+
+Cycle time - Quanto tempo eu demoro para entregar uma tarefa;
+
+
+Objetivo final do kanban é contruir o serviço que estão sobrecarregado,
+equilivrar demanda, assim melhora o desempenho.
+
+
