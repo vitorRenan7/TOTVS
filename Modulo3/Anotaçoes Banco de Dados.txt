@@ -7,3 +7,8 @@ ACID; quando inicia uma busca, ele so valida o que já esta no banco,
 se tiver alguma transação ou algo do tipo, não vem junto com a minha busca.
 
 MODELO DE ENTIDADE não é ORIENTADA A OBJETO.
+
+C reate = Criar
+R ead = Ler
+U pdate = Atualiazar
+D elete = Deleter
