@@ -1,0 +1,17 @@
+-Quarkus
+
+JAR - biblioteca de java compilada;
+
+MAVEN - Gerenciador de dependencias;
+
+
+número da versão 0.0.0 (Versionamento semantico);
+
+0.0.1 "Esse um é um path, correção pequena"
+0.1.0 "minor, funcionalidades novas"
+1.0.0 "Major, (Mudo a porra toda)"
+
+https://start.spring.io/ 
+
+
+ @GetMapping - Está dizendo que é um end-point que quando o usuario rodar vai aparecer  o que está escrito
