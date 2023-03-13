@@ -1,0 +1,18 @@
+GET - SEGURO -não pode alterar os dados enviado;
+POST - NÃO SEGURO - 
+PUT -  NÃO SEGURO
+DELETED - NÃO SEGURO
+
+
+
+IDEMPOTENTE - Não importa a quantidade de requisições, não muda o valor;
+
+chamar uma vez é igual chamar n vezes;
+
+GET - V
+POST - X - se eu chamar varias vezes, eu crio varias coisas;
+PUT - v 
+
+==========================================
+
+Opitional - 
